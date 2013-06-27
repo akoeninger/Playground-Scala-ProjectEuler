@@ -1,0 +1,22 @@
+project
+name
+exit
+compile
+run Problem4
+def t = 0
+scala
+run console
+console
+sys.exit
+exit
+compile
+help
+project
+projects
+reboot
+name
+tasks
+doc-directory
+doc
+kill
+exit
